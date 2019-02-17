@@ -885,6 +885,18 @@ p {
   border-bottom: none !important;
 }
 @media screen and (max-width: 768px) {
+  
+ #fh5co-home .flexslider .slides li {
+  background-size: 100%;
+  margin-top:150px;
+  margin-bottom:-250px;
+}
+   #fh5co-header #fh5co-logo {
+  float: left;
+  margin-left:-100px;
+  line-height: .5;
+  position: relative;
+}
   .fh5co-nav-toggle {
     display: block;
   }
