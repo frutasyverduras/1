@@ -768,8 +768,9 @@ p {
 }
 
 .section-heading .fh5co-section-title {
-  font-size: 30px;
-  letter-spacing: 2px;
+   font-size: 25px;
+  letter-spacing: 0px;
+  margin-top:50px;
   
   color: #1eb300;
   font-family: "Roboto", sans-serif;
@@ -783,7 +784,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   .fh5co-lead {
-    font-size: 20px;
+    font-size: 15px;
   }
 }
 
