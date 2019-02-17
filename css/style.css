@@ -479,6 +479,19 @@ p {
 
 }
 @media screen and (max-width: 992px) {
+ 
+}
+#fh5co-home .flexslider .slides li {
+  background-size: 100%;
+  margin-top:100px;
+  margin-bottom:-50px;
+}
+   #fh5co-header #fh5co-logo {
+  float: left;
+  margin-left:-150px;
+  line-height: .5;
+  position: relative;
+}
   #fh5co-about .fh5co-text {
     padding: 0 0 20px 0;
   }
